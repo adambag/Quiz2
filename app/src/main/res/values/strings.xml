@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Quiz</string>
+
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <!-- Pytania -->
+    <string name="q_projects">Na semestrze 5 jest dużo projektów</string>
+    <string name="q_earth">Ziemia ma około 2 miliardy lat</string>
+    <string name="q_atom">Atom składa się z jądra, w którym znajdują się protony i neutrony, otoczonego przez elektrony krążące po orbitach.</string>
+    <string name="q_mountain">Najwyższą górą na Ziemi jest Mount Everest</string>
+    <string name="q_flat_earth">Ziemia jest płaska</string>
+
+    <string name="correct_answer">Poprawna odpoweiedź</string>
+    <string name="incorrect_answer">Błędna odpoweiedź</string>
+    <string name="result">Twoj wynik to %1$d/%2$d</string>
+
+    <string name="debug_tag">ALFC</string>
+    <string name="debug_onStart">Wywolanie metody onStart</string>
+    <string name="debug_onStop">Wywolanie metody onStop</string>
+    <string name="debug_onDestroy">Wywolanie metody onDestroy</string>
+    <string name="debug_onPause">Wywolanie metody onPause</string>
+    <string name="debug_onResume">Wywolanie metody onResume</string>
+    <string name="debug_onCreate">Wywolanie metody onCreate</string>
+    <string name="debug_onSaveInstanceState">Wywolanie metody onSaveInstanceState</string>
+
+</resources>
